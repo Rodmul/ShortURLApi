@@ -13,4 +13,5 @@ func main() {
 	srv := service.NewService(cfg)
 
 	srv.Logger.Fatal(srv.Start())
+
 }
