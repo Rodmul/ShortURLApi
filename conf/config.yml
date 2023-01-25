@@ -1,0 +1,4 @@
+listen:
+  ip: localhost
+  port: 4000
+db_version: 1

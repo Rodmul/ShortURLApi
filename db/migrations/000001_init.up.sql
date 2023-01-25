@@ -1,0 +1,5 @@
+CREATE TABLE url_data (
+    id UUID NOT NULL PRIMARY KEY,
+    long VARCHAR(512) NOT NULL,
+    short VARCHAR(10) NOT NULL
+);
